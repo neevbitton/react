@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter&display=swap');
+.bg-col{
+    /* background-color: rgb(234, 6, 150); */
+    background-color: rgb(169, 206, 243);
+   font-family: 'Bitter', serif;
+}
+
+.bg-col1{
+    background-color: rgb(94, 126, 134);
+}
+

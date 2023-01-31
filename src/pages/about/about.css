@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@100&display=swap');
+
+#uni{
+    font-family: 'Bitter', serif;
+}
+.font-acaslon-semibold{
+    text-align: center;
+   
+}
+p{
+    text-align: justify;
+}
+
+@media (max-width: 575px){
+.section-content-1 .paragraph-padding-left-right {
+    padding: 0;
+}}
+
+ p {
+    font-family: 'Bitter', serif;
+    line-height: 1.8;
+}
+
+ .paragraph-padding-left-right {
+    padding: 0 40px;
+    display: block;
+}
+

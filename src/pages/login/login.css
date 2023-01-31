@@ -1,0 +1,9 @@
+.media{
+    width: 50%;
+    }
+    
+    @media (max-width: 820px) {
+        .media-100 {
+          width: 100%;
+        }
+     }

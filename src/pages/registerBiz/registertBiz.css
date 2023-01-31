@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@100&display=swap');
+
+h1,h3{
+    font-family: 'Bitter', serif;
+   text-align: center;
+}
+
+.container{
+    font-family: 'Bitter', serif;
+}
+
+.media{
+    width: 50%;
+    }
+    
+    @media (max-width: 820px) {
+        .media-100 {
+          width: 100%;
+        }
+     }

@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@300&display=swap');
+
+  
+  .bg-dark {
+    background-color: Black !important;
+  }
+  
+  .bg-light {
+    background-color: WhiteSmoke !important;
+  }
+  
+  .bg-trees {
+    background-image: url(https://www.kinetic.ink/wp-content/uploads/2018/02/Photographer-Uniform.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+
+  .lead{
+    text-align: center;
+  }
+
+  .display-1,
+  .fw-normal{
+    color: rgb(239, 231, 231);
+    font-family: 'Anton', sans-serif;
+    
+  }
+   a{
+    margin-right: 20px;
+   }
+  
+   section{
+    font-family: 'Bitter', serif;
+   }
+
+   .bg-col2{
+    background-image: linear-gradient(to bottom right, #b7d6f1, #f2f2f2);
+   }
+
+  
+  .py-6 {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+  
+  .py-7 {
+    padding-top: 150px;
+    padding-bottom: 150px;
+  }
+  
+  @media (min-width: 992px) {
+     .border-lg-0 {
+        border: none !important;
+     }
+  }
+
+
+
